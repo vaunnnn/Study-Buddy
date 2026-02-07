@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">StudyBuddy</string>
+    <string name="welcome_msg">Welcome to Study Buddy!</string>
+    <string name="login_btn_text">Log In</string>
+    <string name="activity_dashboard">Go to Dashboard</string>
+    <string name="activity_profile">Go to Profile</string>
+    <string name="activity_settings">Go to Settings</string>
 </resources>
